@@ -1,0 +1,24 @@
+body{
+    color: white;
+    background-color: #8c8c8c;
+    font-size:20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 90%;
+    margin: auto;
+}
+
+.container{
+    width: 690px;
+    margin: auto;
+}
+
+.navbar{
+    
+    border-bottom: 1px solid #000000;
+}
+
+.mail_sender{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 0px;
+}
